@@ -1,3 +1,3 @@
 Fun Facts: 
-#I have a dog 
-#I love matcha
+- I have a dog 
+- I love matcha 
